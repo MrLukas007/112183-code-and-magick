@@ -1,7 +1,7 @@
-# Личный проект «Код и Магия» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
+﻿# Личный проект «Код и Магия» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Дима Лутченко](https://up.htmlacademy.ru/javascript/7/user/112183).
-* Наставник: `Неизвестно`.
+* Наставник: [Виталий Зюзин](https://up.htmlacademy.ru/javascript/7/user/16934).
 
 ---
 
